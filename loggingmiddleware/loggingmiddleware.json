@@ -1,0 +1,10 @@
+{
+"stack": "frontend",
+"level": "debug",
+"package": "hook",
+"message": "received string, expected bool"
+}
+{
+    "logID": "120ffe61-9708-4bc2-99fe-6ee94fc46d30",
+    "message": "log created successfully"
+}
